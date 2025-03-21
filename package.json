@@ -5,6 +5,9 @@
   "description": "Tiny Vercel serverless function to scrape metadata from a URL",
   "main": "api/scrape.js",
   "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "vercel dev",
     "deploy": "vercel deploy --prod",
