@@ -34,7 +34,7 @@
     "metascraper-title": "^5.22.0",
     "metascraper-url": "^5.22.0",
     "metascraper-video": "^5.22.0",
-    "metascraper-youtube": "^5.22.0",
+    "metascraper-youtube": "^5.46.5",
     "nextjs-cors": "^2.1.0",
     "node-fetch": "2.6.7",
     "patch-package": "^6.4.7"
